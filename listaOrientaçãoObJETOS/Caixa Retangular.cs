@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace listaOrientaçãoObJETOS
+namespace Exercicio01
 {
     internal class Caixa_Retangular
     {
